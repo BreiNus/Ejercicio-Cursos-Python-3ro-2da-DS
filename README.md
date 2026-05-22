@@ -1,6 +1,6 @@
 Sistema de Gestión de Cursos en Terminal
 
-El Sistema de Cursos es un script de automatización en Python diseñado para correr directamente en la consola. Este proyecto simula la lógica real detrás del control de inscripciones de alumnos y la gestión de asignaturas de una institución, ahora con una interfaz gráfica en terminal mucho más viva y dinámica
+El Sistema de Cursos es un script de automatización en Python diseñado para correr directamente en la consola. Este proyecto simula la lógica real detrás del control de inscripciones de alumnos y la gestión de asignaturas de una institución
 
 Características Principales
 
